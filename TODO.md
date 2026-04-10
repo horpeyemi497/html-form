@@ -1,0 +1,1 @@
+# Task Progress: Remove h1 background color\n\n## Steps to complete:\n\n1. ✅ Create TODO.md to track progress\n2. Edit index.css to remove h1 background property\n3. Verify change by reloading index.html\n4. Mark task complete\n
