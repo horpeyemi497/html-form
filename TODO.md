@@ -1,1 +1,11 @@
-# Task Progress: Remove h1 background color\n\n## Steps to complete:\n\n1. ✅ Create TODO.md to track progress\n2. Edit index.css to remove h1 background property\n3. Verify change by reloading index.html\n4. Mark task complete\n
+# Task Progress: Center form and heading
+
+Previous: h1 background removed ✅
+
+## Steps:
+1. ✅ Update TODO.md
+2. ✅ Edit index.css body rule for centering
+3. ✅ Fixed h1 rule syntax
+4. ✅ Verify by reloading index.html
+5. ✅ Complete task
+
